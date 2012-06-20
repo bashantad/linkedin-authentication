@@ -1,0 +1,11 @@
+Linkedin authentication with php:
+Installation guide:
+1. Clone this project
+2. Create new application at https://www.linkedin.com/secure/developer?newapp=
+3. copy API Key and Secret Key from your created application
+4. Paste these app key and secret key into index.php file of your project
+5. Then run index.php and enjoy login with linkedin
+
+Limitation:
+it doesn't provide email address for you 
+
